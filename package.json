@@ -1,0 +1,24 @@
+{
+  "name": "tea-run-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdeKonde/tea-run-user.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdeKonde/tea-run-user/issues"
+  },
+  "homepage": "https://github.com/AdeKonde/tea-run-user#readme",
+  "dependencies": {
+    "alchemy-sdk": "^3.2.0",
+    "ethers": "^6.11.1",
+    "tea-run-oss": "^1.0.1"
+  }
+}
